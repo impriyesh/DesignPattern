@@ -45,7 +45,7 @@ public:
 
 };
 
-// Test best way to learn dsign pattern
+// Test best way to learn dsign pattern - checking git 12/16
 
 int main() {
     Factory *factory = new ConcreteFactory();
