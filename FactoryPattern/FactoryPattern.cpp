@@ -45,7 +45,7 @@ public:
 
 };
 
-// Test
+// Test best way to learn dsign pattern
 
 int main() {
     Factory *factory = new ConcreteFactory();
